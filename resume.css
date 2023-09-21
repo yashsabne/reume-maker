@@ -1,0 +1,273 @@
+.input-info {
+    width: 300px;
+    border: none;
+    height: 33px;
+    background-color: #ced6e6;
+    border-radius: 7px;
+    border-color: white;
+}
+.input-info-e {
+    width: 350px;
+    height: 34px;
+    border: none;
+    background-color: #ced6e6;
+    border-radius: 7px;
+    border-color: white;
+    border-color:white;
+}
+.personal-info {
+    width: 350px;
+    border-right: 0.1px solid black;
+    margin-right: 50px;
+}
+.info-started {
+    display: flex;
+    flex-wrap: wrap;
+}
+.edu-info {
+    width: 400px;
+    border-right: 0.1px solid black;
+    margin-right: 50px;
+}
+.border-box-resume {
+    position: relative;
+    width: 100%;
+    height: 400px;
+    background-color: #005256;
+}
+.horizontal-resume-box {
+    position: relative;
+    top:-50px;
+    left: 30px;
+    width: 300px;
+    height: 1000px;
+    background-color: rgb(252, 201, 135);
+}
+#submit-btn {
+    width: 130px;
+    border-radius: 8px;
+    background-color:#005256 ;
+    color: white;
+}
+#submit-btn:hover {
+    color: #005256;
+    background-color:rgb(252, 201, 135) ;
+}
+.btn-styl {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+.print-resume {
+    width: 1000px;
+    display: flex;
+    justify-content: center;
+   
+}
+.container-fluid {
+    height:1200px;
+    border: 2px solid black;
+}
+.img {
+    position: relative;
+    display: flex;
+    padding-top: 70px;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 280px;
+
+}
+.name {
+    font-size: xx-large;
+    font-weight: bolder;
+    color: white;
+
+    position: relative;
+    top: 150px;
+    left: 400px;
+}
+.contact-me {
+    height: 1060px;
+    width: 150px;
+    position: relative;
+    top: 200px;
+    left:450px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(137, 167, 193);
+    color: white;
+}
+.connect-me  {
+    position: relative;
+    width: max-content;
+    top: 100px;
+    left: 80px;
+    display: flex;
+    flex-direction: column;
+
+    padding-top: 400px;
+    padding: 0%;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    font-size: large;
+    font-weight: 800;
+}
+.another-info {
+
+    position: relative;
+    left: 470px;
+    top: 100px;
+}
+.yashedu {
+    display: flex;
+    align-items: center;
+
+}
+.yashedu1 {
+    display: flex;
+    align-items: center;
+    display: flex;
+    align-items: center;
+
+}
+#name-down {
+    position: relative;
+    top: 150px;
+    left: 400px;
+    color: white;
+    font-style: italic;
+
+}
+.education {
+    position: relative;
+    right: 100px;
+    height: min-content;
+
+}
+.for-flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.button-colur {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 30px 30px 30px 30px;
+}
+.color-style-change-resume {
+    width: 400px;
+    height: 600px;
+    border-radius: 10px;
+    border: 2px solid goldenrod;
+}
+
+.button-color-resume {
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+}
+#newTaking input {
+      margin-bottom:15px;
+}
+
+.outputClass ul  li{
+    margin-left: 20px;
+}
+
+#yash4  {
+    display: flex;
+    justify-content: space-between;
+}
+.inside-skills {
+    height: 100px;
+    /* background-color: black; */
+    /* color: yellow; */
+    /* padding: 10px 10px 10px 10px; */
+    position: relative;
+    top: 200px;
+    width: 62%;
+    left: 350px;
+}
+#skillsAdd {
+    border: 2px solid black;
+    border-radius: 8px;
+    background-color: whitesmoke;
+}
+#skillsAdd::placeholder   {
+    color: navy;
+
+}
+.skills-section {
+    position: relative;
+    left: 40px;
+}
+
+/* asdhsshjshdhvdvh */
+
+.head{
+    display: flex;
+    align-items: center;
+    color: #57606f;
+}
+.head .fa{
+    margin-left: 5px;
+}
+.input-box{
+    position: relative;
+    width: 80%;
+    height: 35px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    background: #ced6e6;
+    border-radius: 5px;
+}
+.input-box input{
+    width: 100%;
+    height: 100%;
+    padding: 0 10px 0 40px;
+    border-radius: 5%;
+    border: 1px solid #57606f48;
+    outline: none;
+    background: transparent;
+    font-size: 16px;
+    color:#57606f;
+}
+.input-box .fa-tags{
+    position: absolute;
+    top: 50%;
+    left: 12px;
+    transform: translateY(-50%);
+    color: #57606f;
+}
+.tags span{
+    display: inline-block;
+    max-width: 100%;
+    padding: 4px 14px;
+    margin: 4px;
+    font-size: 18px;
+    font-weight: 700;
+    font-weight: bold;
+    background-color: #ced6e6;
+    color: black;
+    border-radius: 3px;
+    word-wrap: break-word;
+    
+}
+.tags span .fa-times{
+    margin-left: 10px;
+    font-size: 10px;
+    cursor: pointer;
+    color: red;
+}
+#btn-print {
+    width: 150px;
+    margin-left: 50px;
+    height: 33px;
+    color: white;
+    background-image: linear-gradient(to right, orange, green, blue, indigo, violet);
+    border-radius: 8px;
+}
