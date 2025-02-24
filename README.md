@@ -1,115 +1,119 @@
-Here's your `README.md` file for the **Kashvi Saree** project:  
+Here is the **corrected README.md** file with a **properly formatted project structure** so you can copy it without issues:  
 
 ```markdown
-# Kashvi Saree
+# Kashvi Saree  
 
-## 🏆 Project for Google Winter of Code (GWOC) at NIT Surat
+## 🏆 Project for Google Winter of Code (GWOC) at NIT Surat  
 
-**Kashvi Saree** is an e-commerce platform built to showcase and sell traditional sarees with a seamless user experience. This project was developed as part of **Google Winter of Code (GWOC)** at **NIT Surat**.
-
----
-
-## 👥 Team Members
-
-- **Yash Navnath Sabne** - Full backend development, frontend functionalities, and optimization.
-- **Navneet Prajapati** - Complete design and some functionalities.
-- **Mohit Singh** - Responsive design optimization and blog frontend.
-- **Priyansh** - Assisted with minor tasks.
+**Kashvi Saree** is an elegant e-commerce platform built to showcase and sell traditional sarees. Developed as part of **Google Winter of Code (GWOC)** at **NIT Surat**, the project emphasizes **aesthetic UI, seamless functionality, and optimized performance**.  
 
 ---
 
-## 🚀 Features
+## 👥 Team Members & Contributions  
 
-- **User Authentication**: Secure login and signup.
-- **Product Listings**: Display sarees with details and images.
-- **Cart & Checkout**: Add items to the cart and proceed to checkout.
-- **Order Management**: Track placed orders.
-- **Blog Section**: Articles related to sarees and fashion.
-- **Fully Responsive UI**: Optimized for different screen sizes.
-- **Optimized Performance**: Faster load times and smooth experience.
+- **Yash Navnath Sabne**  
+  - **Backend Development**: Built and optimized the complete backend using Node.js & Express.js.  
+  - **Frontend Functionalities**: Implemented core interactivity and logic.  
+  - **Performance Optimization**: Enhanced API efficiency and reduced load times.  
+
+- **Navneet Prajapati**  
+  - **Frontend UI/UX Design**: Crafted a stunning and user-friendly interface.  
+  - **Component Styling**: Ensured consistency with modern aesthetics and animations.  
+  - **Added Functionalities**: Contributed to interactive elements in the UI.  
+
+- **Mohit Singh**  
+  - **Responsive Design Optimization**: Ensured smooth experience across all devices.  
+  - **Blog Section (Frontend)**: Designed and implemented the blog UI.  
+  - **General UI Improvements**: Enhanced usability for better engagement.  
+
+- **Priyansh**  
+  - **Testing & Debugging**: Identified and fixed minor issues.  
+  - **Content Assistance**: Helped improve blog and UI content.  
+  - **General Enhancements**: Assisted with refining small UI/UX details.  
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Features  
 
-- **Frontend**: HTML, CSS, JavaScript, React.js
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Authentication**: JWT & OAuth
-- **Styling**: Tailwind CSS, Bootstrap
-- **Hosting**: Vercel (Frontend), Render/Heroku (Backend)
+✅ **Beautiful UI** - Modern and visually appealing design.  
+✅ **Fully Responsive** - Works across all screen sizes.  
+✅ **User Authentication** - Secure login and signup with JWT.  
+✅ **Product Listings** - Display sarees with detailed descriptions.  
+✅ **Cart & Checkout** - Seamless shopping experience.  
+✅ **Order Tracking** - Users can track their purchases.  
+✅ **Blog Section** - Fashion-related articles and tips.  
+✅ **Performance Optimizations** - Faster load times and smooth navigation.  
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure  
 
 ```
-/kashvi-saree
-│── /client          # Frontend code (React.js)
-│── /server          # Backend code (Node.js, Express)
-│── /models          # Database models (MongoDB)
-│── /routes          # API routes
-│── /public          # Static assets
-│── .gitignore
-│── package.json
-│── README.md
+kashvi-saree  
+│── /client      # Frontend code (React.js)  
+│── /server      # Backend code (Node.js, Express)  
+│── /models      # Database models (MongoDB)  
+│── /routes      # API routes  
+│── /public      # Static assets  
+│── .gitignore  
+│── package.json  
+│── README.md  
 ```
 
 ---
 
-## 🛠 Setup & Installation
+## 🛠 Setup & Installation  
 
-1. **Clone the repository**
+1. **Clone the repository**  
    ```sh
    git clone https://github.com/your-repo/kashvi-saree.git
    cd kashvi-saree
    ```
 
-2. **Install dependencies**
+2. **Install dependencies**  
    ```sh
    npm install
    ```
 
-3. **Run backend**
+3. **Run backend**  
    ```sh
    cd server
    node index.js
    ```
 
-4. **Run frontend**
+4. **Run frontend**  
    ```sh
    cd client
    npm start
    ```
 
 5. **Open the project**  
-   Navigate to `http://localhost:3000/` in your browser.
+   Navigate to `http://localhost:3000/` in your browser.  
 
 ---
 
-## 🎯 Contribution
+## 🎯 Contribution  
 
-Contributions are welcome! If you'd like to improve Kashvi Saree, follow these steps:
+Contributions are welcome! If you'd like to improve Kashvi Saree, follow these steps:  
 
-1. Fork the repository.
-2. Create a new branch (`feature-branch`).
-3. Make your changes and commit.
-4. Push to your branch and create a pull request.
-
----
-
-## 📞 Contact
-
-For any queries or discussions, reach out to the team:
-
-- **Yash Navnath Sabne** (Backend & Optimizations) - [Your Email/LinkedIn]
-- **Navneet Prajapati** (UI/UX Design) - [His Email/LinkedIn]
-- **Mohit Singh** (Responsive Design & Blog) - [His Email/LinkedIn]
-- **Priyansh** (Minor Features) - [His Email/LinkedIn]
+1. Fork the repository.  
+2. Create a new branch (`feature-branch`).  
+3. Make your changes and commit.  
+4. Push to your branch and create a pull request.  
 
 ---
 
-🌟 *Thank you for visiting! If you like the project, give it a star ⭐ on GitHub!*  
+## 📞 Contact  
+
+For any queries or discussions, reach out to the team:  
+
+- **Yash Navnath Sabne** (Backend & Optimizations) - [Your Email/LinkedIn]  
+- **Navneet Prajapati** (UI/UX Design & Styling) - [His Email/LinkedIn]  
+- **Mohit Singh** (Responsive Design & Blog UI) - [His Email/LinkedIn]  
+- **Priyansh** (Testing & Debugging) - [His Email/LinkedIn]  
+
+---
+
+🌟 *If you like this project, give it a ⭐ on GitHub!*  
 ```
-
-Let me know if you want any changes! 🚀
+ 
